@@ -189,7 +189,6 @@ GameManager.prototype.move = function (direction) {
             this.over = true; // Game over!
             //TODO:send q to back
 
-
         }
 
         this.actuate();
